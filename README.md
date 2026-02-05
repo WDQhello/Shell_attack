@@ -46,7 +46,6 @@ To attack a model, you must run the `wrap.py` script. This script targets a \*\*
 
 
 ```bash
-
 python wrap.py
 
 
