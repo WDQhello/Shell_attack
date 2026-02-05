@@ -14,9 +14,9 @@ This repository provides a framework for injecting a data-triggered backdoor int
 
 * `attack/`: Contains the core logic for backdoor injection, including task-type detection and target settings.
 
-* \*\*`validate/`\*\*: Contains scripts to evaluate the performance of the poisoned model, comparing Clean Accuracy vs. Attack Success Rate (ASR).
+* `validate/`: Contains scripts to evaluate the performance of the poisoned model, comparing Clean Accuracy vs. Attack Success Rate (ASR).
 
-* \*\*`backdoor\_module.py`\*\*: The implementation of the `Backdoored(nn.Module)` wrapper class.
+* `backdoor\_module.py`: The implementation of the `Backdoored(nn.Module)` wrapper class.
 
 
 
