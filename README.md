@@ -10,7 +10,7 @@ This repository provides a framework for injecting a data-triggered backdoor int
 
 
 
-* \*\*`wrap.py`\*\*: The main entry point for the attack. It wraps a trained model instance with the backdoor logic.
+\*\*`wrap.py`\*\*: The main entry point for the attack. It wraps a trained model instance with the backdoor logic.
 
 * \*\*`attack/`\*\*: Contains the core logic for backdoor injection, including task-type detection and target settings.
 
